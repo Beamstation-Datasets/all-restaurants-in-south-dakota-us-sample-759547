@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c57156b8-7dcb-4727-8583-f2004f698938",
+  "id_short": 759547,
+  "published_at": "2026-04-15T07:11:52Z",
+  "repo_name": "all-restaurants-in-south-dakota-us-sample-759547",
+  "sample_asset_name": "beamstation_759547_restaurants-us-sd_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/759547/beamstation_759547_restaurants-us-sd_SAMPLE_DIST.csv",
+  "sample_records": 208,
+  "sample_sha256": "436625db9252c0480f8e03965c052fd7a1bc7726d07f31240bf878e6c44bf6eb",
+  "sample_size_bytes": 544032,
+  "total_records": 1929
+}
