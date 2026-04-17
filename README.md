@@ -9,9 +9,9 @@
 | Dataset ID | `759547` |
 | Location | South Dakota |
 | Category | Restaurants |
-| Full dataset size | 1,929 records |
-| Free sample size | 208 records (10.78%) |
-| Last export | 2026-03-31T15:09:56.377035+00:00 |
+| Full dataset size | 2,084 records |
+| Free sample size | 208 records (9.98%) |
+| Last export | 2026-04-14T16:03:26.412775+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-south-dakota-us-sample-759547/releases/download/sample-latest/beamstation_759547_restaurants-us-sd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
