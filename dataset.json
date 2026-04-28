@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of South Dakota. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in South Dakota, US",
-  "export_job_id": "0325ecb0-3620-4b3a-9f41-1f523e82572b",
+  "export_job_id": "ffb250a1-e59c-475a-ac0c-8b8725ab17f3",
   "github_org": "Beamstation-Datasets",
   "id_short": 759547,
   "location_name": "South Dakota",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-south-dakota-us-sample-759547",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/759547/beamstation_759547_restaurants-us-sd_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 76,
-  "sample_sha256": "e407cff1c47ad753093cd4462006db710a872f252fb9e9027e2e9bc829f7b057",
-  "sample_size_bytes": 195716,
-  "total_records": 761,
-  "updated_at": "2026-04-21T17:26:04.439612+00:00"
+  "sample_records": 212,
+  "sample_sha256": "ac6a645acfd06440483b5d14f2624ab6d20af2c004eebff2fe04594facdb0ef1",
+  "sample_size_bytes": 620901,
+  "total_records": 2123,
+  "updated_at": "2026-04-28T18:36:05.283504+00:00"
 }
